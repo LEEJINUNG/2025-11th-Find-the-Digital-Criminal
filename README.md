@@ -1,4 +1,4 @@
-# 🔍 Digital Criminal Investigation Challenge — 11th Competition WriteUp
+# 🔍 2025 11th Find the Digital Criminal — WriteUp
 
 **Junior Track Gold Prize 🥇**
 
