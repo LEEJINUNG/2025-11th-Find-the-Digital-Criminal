@@ -19,8 +19,6 @@ The 11th competition (2025) focused on emerging digital crimes including **AI-po
 
 > **Junior Track — Gold Prize (금상)**
 
-A total of 13 winners were selected. Awards included commendations from the Prosecutor General, the President of KAFS, and the Director of KCOPA.
-
 ## WriteUp
 
 | Track | Report |
